@@ -19,4 +19,4 @@ In this assignment, a 2D axisymmetric mesh was generated (using tools such as Gm
 ## Rebuild Process
 
 ## Visualization with ParaView
-![velocity](./assig_2_images/velocity.jpg)
+![Velocity Plot](images/velocity.jpg)
