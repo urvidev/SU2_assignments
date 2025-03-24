@@ -21,7 +21,7 @@ This assignment demonstrates how to incorporate a Python wrapper into a SU2-base
 
 ## Visualization with ParaView
 - **Sample Time Steps**: Typical snapshots (e.g., at t=0.11111, t=0.33333, t=0.66666, and t=0.99999).
-![temp_1](./assig_3_images/temp_1.jpg)
-![temp_2](./assig_3_images/temp_2.jpg)
-![temp_3](./assig_3_images/temp_3.jpg)
-![temp_4](./assig_3_images/temp_4.jpg)
+![Image 1](images/temp_1.jpg)
+![Image 2](images/temp_2.jpg)
+![Image 3](images/temp_3.jpg)
+![Image 4](images/temp_4.jpg)
