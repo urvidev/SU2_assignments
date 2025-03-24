@@ -24,5 +24,5 @@ This assignment extends the Python wrapper integration for a steady-state compre
 ## Rebuild Process
 
 ## Visualization with ParaView
-![temp](./assig_4_images/temp.jpg)
-![Sound_speed](./assig_4_images/Sound_speed.jpg)
+![Temperature Visualization](./images/temp.png)
+![Sound Speed Visualization](./images/Sound_speed.png)
