@@ -22,7 +22,6 @@ This assignment extends the Python wrapper integration for a steady-state compre
   The computed temperature from the Python wrapper is applied to the wall boundary during each iteration of the simulation, ensuring that the spatial variation is accurately captured.
 
 ## Visualization with ParaView
-![Sound Speed](images/Sound_speed.jpg)
 ![Temperature](images/temp.jpg)
 ![Graph](images/graph.jpg)
 
