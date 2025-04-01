@@ -31,4 +31,4 @@ This rebuild process ensures that all code changes, including the new volume out
 
 ## Visualization with ParaView
 
-![Sound Speed](./assig_2_images/ss.jpg)
+![Sound Speed](./images/ss.jpg)
