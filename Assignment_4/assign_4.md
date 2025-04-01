@@ -24,4 +24,6 @@ This assignment extends the Python wrapper integration for a steady-state compre
 ## Visualization with ParaView
 ![Sound Speed](images/Sound_speed.jpg)
 ![Temperature](images/temp.jpg)
+![Graph](images/graph.jpg)
+
 
