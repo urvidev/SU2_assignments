@@ -5,7 +5,7 @@ This assignment simulates a **2D axisymmetric incompressible turbulent jet** usi
 
 ---
 
-## Configuration (`jet_config.cfg`)  
+## Configuration
 ### Solver Settings  
 | Parameter | Value | Description |  
 |-----------|-------|-------------|  
@@ -61,6 +61,6 @@ This assignment simulates a **2D axisymmetric incompressible turbulent jet** usi
 - **Surface Output**: `surface_flow.csv` for wall quantities  
 - **Restart Files**: Saved every 100 iterations (`OUTPUT_WRT_FREQ=100`)  
 
-### Velocity Profile  
+### Velocity 
 ![Velocity Contours](images/velocity.jpg)  
-*Axial velocity development showing jet spreading and viscous dissipation*
+
